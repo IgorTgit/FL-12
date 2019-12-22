@@ -1,0 +1,30 @@
+body {
+  font-family: roboto;
+}
+.post-1 {
+	background: #9d27b0;
+}
+.post-2 {
+	background: #9bb800;
+}
+.post-3 {
+	background: #ed5120;
+}
+.post-4 {
+	background: #9d27b0;
+}
+.post-5 {
+	background: #2d95bb;
+}
+
+@media(max-width: 1400px){
+
+}
+
+@media(max-width: 768px){
+
+}
+
+@media(max-width: 480px){
+
+}
